@@ -29,9 +29,9 @@
 
 ## Matice Feature-Test
 
-| Feature file | 1 | 2 | 3 | ... |
-|----------|---|---|---|-----|
-| file1.feature | x | x | | |
-| file2.feature |   |   | x | x |
-| ....feature |   |   |  |   |
+| Feature file       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |10 |11 |12 |13 |14 |
+|--------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| search.feature     | x | x | x | x | x |   |   |   |   |   |   |   |   |   |
+| purchase.feature   |   |   |   |   |   | x | x | x | x | x |   |   |   |   |
+| management.feature |   |   |   |   |   |   |   |   |   |   | x | x | x | x |
 
